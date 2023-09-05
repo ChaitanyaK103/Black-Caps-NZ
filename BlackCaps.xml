@@ -1,0 +1,182 @@
+<BlackCaps_NZ>
+  <Players>
+     <name>Kane Williamson</name>
+     <role>Batsman</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+  <Players>
+     <name>Martin Guptil</name>
+     <role>Batsman</role>
+     <batting>Rightt Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+  <Players>
+     <name>Henry Nicholls</name>
+     <role>Batsman</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+    <Players>
+     <name>Ross Taylor</name>
+     <role>Batsman</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm orthodox</bowling>
+  </Players>
+   <Players>
+     <name>Devon Conway</name>
+     <role>WK Batsman</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm medium</bowling>
+  </Players>
+  <Players>
+     <name>Tom Latham</name>
+     <role>WK Batsman</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm medium</bowling>
+  </Players>
+   <Players>
+     <name>Tom Blundell</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+   <Players>
+     <name>Micheal Bracewell</name>
+     <role>WK Batsman</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+  <Players>
+     <name>Glenn Phillips</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm offbreak</bowling>
+  </Players>
+    <Players>
+     <name>Dane Cleaver</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm legbreak</bowling>
+  </Players>
+   <Players>
+     <name>Tim Seifert</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+	 <bowling></bowling>
+  </Players>
+  <Players>
+     <name>Finn Allen</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+	 <bowling></bowling>
+  </Players>
+  <Players>
+     <name>BJ Watling</name>
+     <role>WK Batsman</role>
+     <batting>Right Handed</batting>
+	 <bowling></bowling>
+  </Players>
+  <Players>
+     <name>Colin Munro</name>
+     <role>Batting Allrounder</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm medium</bowling>
+  </Players>
+  <Players>
+     <name>Colin de Grandhomme</name>
+     <role>Batting Allrounder</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+     <name>James Neesham</name>
+     <role>Batting Allrounder</role>
+     <batting>Left Handed</batting>
+     <bowling>Right Arm medium</bowling>
+  </Players>
+  <Players>
+     <name>Daryl Mitchell</name>
+     <role>Batting Allrounder</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm medium</bowling>
+  </Players>
+  <Players>
+    <name>Mitchell Santner</name>
+    <role>Bowling Allrounder</role>
+    <batting>Left Handed</batting>
+    <bowling>Left Arm orthodox</bowling>
+  </Players>
+  <Players>
+    <name>Mark Chapman</name>
+    <role>Bowling Allrounder</role>
+    <batting>Left Handed</batting>
+    <bowling>Left Arm orthodox</bowling>
+  </Players>
+   <Players>
+    <name>Will Young</name>
+    <role>Bowling Allrounder</role>
+    <batting>Right Handed</batting>
+    <bowling>Left Arm offbreak</bowling>
+  </Players>
+  <Players>
+   <name>Trent Boult</name>
+    <role>Bowler</role>
+    <batting>Right Handed</batting>
+    <bowling>Left Arm fast</bowling>
+  </Players>
+  <Players>
+   <name>Neil Wagner</name>
+    <role>Bowler</role>
+    <batting>Left Handed</batting>
+    <bowling>Left Arm fast</bowling>
+  </Players>
+  <Players>
+    <name>Ajaz Patel</name>
+    <role>Bowler</role>
+    <batting>Left Handed</batting>
+    <bowling>Left Arm orthodox</bowling>
+  </Players>
+  <Players>
+     <name>Ish Sodhi</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm legbreak</bowling>
+  </Players>
+  <Players>
+     <name>Matt Henry</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+     <name>Tim Southee</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+    <name>Lockie Ferguson</name>
+    <role>Bowler</role>
+    <batting>Right Handed</batting>
+    <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+     <name>Kyle Jamieson</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+     <name>Adam Milne</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+  <Players>
+     <name>Blair Tickner</name>
+     <role>Bowler</role>
+     <batting>Right Handed</batting>
+     <bowling>Right Arm fast</bowling>
+  </Players>
+</BlackCaps_NZ>
